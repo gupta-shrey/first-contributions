@@ -5,6 +5,7 @@
 - <Shrey Gupta>@DevSocPI
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
+- [Shrey@DevsocPI](https://github.com/gupta-shrey)
 - [Shivani R](https://github.com/shivu-srk)
 - Shrey Gupta@DevSocPI
 - [Arman Karimi](https://github.com/iArmanKarimi/)
