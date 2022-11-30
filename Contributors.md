@@ -10,7 +10,7 @@
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [Shrey Gupta]@DevSocPI
 - [SleepyPeanut] (https://github.com/sleepypeanut)
-  [Shrey Gupta](hhtp://github.com/gupta-shrey)@DevsocPI
+- [Shrey Gupta](hhtp://github.com/gupta-shrey)@DevsocPI
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
