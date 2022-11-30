@@ -6,7 +6,9 @@
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Shivani R](https://github.com/shivu-srk)
+- Shrey Gupta@DevSocPI
 - [Arman Karimi](https://github.com/iArmanKarimi/)
+  [Shrey Gupta]@DevSocPI
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
